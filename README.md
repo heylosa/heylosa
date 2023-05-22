@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Technology Stack 
 
-
+https://img.shields.io/badge/-Python-orange
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heylosa)](https://solved.ac/heylosa)
 
 
