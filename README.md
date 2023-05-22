@@ -1,6 +1,10 @@
-### 🌱 Technology Stack 🌱
+### 🌱 Technology Stack -ing 🌱
+### Python / C++ / SQL / R
+
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heylosa)](https://solved.ac/heylosa)
+
 
 
 <!--
