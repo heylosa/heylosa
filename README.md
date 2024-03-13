@@ -11,3 +11,4 @@
 
 <h6 align="center">Dongguk Univ. Material Engineering B.S.</h6>
 <h6 align="center">Dongguk Univ. Material Engineering M.S.</h6>
+<h6 align="center">LG Chem</h6>
